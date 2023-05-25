@@ -1,0 +1,5 @@
+npm --version
+npm install -g @angular/cli@latest
+ng new parc
+cd partc
+ng serve
